@@ -78,3 +78,13 @@ public/
 We use auth.js https://authjs.dev/guides
 
 
+
+## Prisma
+
+```bash
+npx prisma init
+
+```
+
+
+DATABASE_URL= 

@@ -88,3 +88,11 @@ npx prisma init
 
 
 DATABASE_URL= 
+
+
+Prisma to Supabase
+https://www.prisma.io/docs/orm/overview/databases/supabase
+
+
+everytime update scheme
+Prisma migrate dev or prisma db push

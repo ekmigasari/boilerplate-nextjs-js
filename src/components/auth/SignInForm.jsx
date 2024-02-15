@@ -37,7 +37,7 @@ export default function SignInForm() {
         <div class="grow shrink basis-0 h-[0px] border border-lime-300"></div>
       </div>
       <div className="flex flex-col gap-3">
-        <button className="bg-white text-stone-800 text-sm font-semibold px-3 py-2 self-stretch rounded flex justify-center items-center gap-4">
+        <button type="submit"  className="bg-white text-stone-800 text-sm font-semibold px-3 py-2 self-stretch rounded flex justify-center items-center gap-4">
           <Image
             src="https://lh3.googleusercontent.com/COxitqgJr1sJnIDe8-jiKhxDx1FrYbtRHKJ9z_hELisAlapwE9LUPh6fcXIfb5vwpbMl4xl9H9TRFPc5NOO8Sb3VSgIBrfRYvW6cUA"
             alt="Google Logo"

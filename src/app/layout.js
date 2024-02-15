@@ -1,5 +1,6 @@
 import { Inter } from "next/font/google";
 import "../styles/globals.css";
+import Navbar from "@/components/sharedui/Navbar";
 
 const font = Inter({ subsets: ["latin"] });
 

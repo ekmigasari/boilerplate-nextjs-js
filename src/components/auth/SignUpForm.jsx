@@ -38,7 +38,7 @@ export default function SignUpForm() {
               type="password"
             />
           </div>
-          <button className="bg-lime-300 text-stone-800 font-medium px-3 py-2 self-stretch rounded mt-6">
+          <button type="submit" className="bg-lime-300 text-stone-800 font-medium px-3 py-2 self-stretch rounded mt-6">
             Sign up
           </button>
         </div>
